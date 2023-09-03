@@ -1,0 +1,3 @@
+!pip install bayesian-optimization
+!pip install catboost
+!pip install scikit-learn
